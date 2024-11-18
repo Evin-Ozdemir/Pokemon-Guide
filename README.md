@@ -1,5 +1,5 @@
 
-<div><h1><i class="pkmn pkmn-006-charizard"></i>  Pokedex Guide </h1></div>
+<div><h1> Pokedex Guide </h1></div>
 <h4>The Pokedex Guide is an interactive web application that allows users to explore and search for Pokémon details using real-time data from a Pokémon API. This project combines HTML, CSS, and JavaScript with API integration to provide dynamic and up-to-date Pokémon information in a visually appealing and user-friendly format.</h4>
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
