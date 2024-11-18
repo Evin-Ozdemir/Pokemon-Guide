@@ -1,26 +1,28 @@
 
-<div><h1>🛍️ E-Commerce Website </h1></div>
-<h4>This E-Commerce Website simulates a fully functional online store with dynamic features. Built with HTML, CSS, and JavaScript, it provides a responsive design, interactive product displays, and a smooth user experience</h4>
+<div><h1><i class="fas fa-circle"></i>  Pokedex Guide </h1></div>
+<h4>The Pokedex Guide is an interactive web application that allows users to explore and search for Pokémon details using real-time data from a Pokémon API. This project combines HTML, CSS, and JavaScript with API integration to provide dynamic and up-to-date Pokémon information in a visually appealing and user-friendly format.</h4>
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
  <h2>📸 Project Demo</h2>
- <p>A preview of the e-commerce platform showcasing product listings and cart functionality.</p>
+ <p>A quick preview of the Pokedex interface with Pokémon data fetched via API.</p>
 
 
-https://github.com/user-attachments/assets/f6f66cee-68b4-4dd2-b248-4452f172a0f7
+https://github.com/user-attachments/assets/0ede1fcc-4e4a-4dfb-8938-fb34673a133e
 
 
 <h2>🛠️ Technologies Used</h2>
  <ul>
-   <li>HTML5: For structuring the application.</li>
-   <li>CSS3: For designing the layout and user interface.</li>
-   <li>JavaScript: For implementing interactivity and dynamic behavior.</li>
+   <li>HTML5: For structuring the web interface.</li>
+   <li>CSS3: For styling, layout design, and responsiveness.</li>
+   <li>JavaScript (ES6): For functionality and data manipulation.</li>
+   <li>Pokémon API: For fetching real-time Pokémon data.</li>
  </ul>  
  
  <h2>🎨 Features</h2>
  <ul>
-   <li>Product Listings: Interactive product grid with image and price details.</li>
-   <li>Shopping Cart: Add, update, and remove items.</li>
-   <li>Responsive Design: Works seamlessly on desktop and mobile devices.</li>
-    <li>User-Friendly UI: Intuitive design with modern aesthetics.</li>
+   <li>Real-Time Pokémon Data: Fetches Pokémon details like stats, abilities, and types directly from the API.</li>
+   <li>Search Functionality: Search Pokémon by name or ID for quick access.</li>
+   <li>Interactive UI: Displays Pokémon details in an intuitive and engaging way.</li>
+   <li>Responsive Design: Optimized for both desktop and mobile devices.</li>
+   <li>Dynamic Updates: Loads new Pokémon data without refreshing the page.</li>
  </ul> 
